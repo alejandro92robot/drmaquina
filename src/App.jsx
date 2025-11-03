@@ -7,6 +7,7 @@ import ContactSection from './components/ContactSection';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import ProjectsSection from './components/ProjectsSection';
+import ImagesSection from './components/ImagesSection';
 function App() {
   return (
     <ThemeProvider theme={theme}>
@@ -17,6 +18,7 @@ function App() {
         <HeroSection />
         <ServicesSection />
         <ProjectsSection />
+        <ImagesSection />
         <ContactSection />
       </main>
 
