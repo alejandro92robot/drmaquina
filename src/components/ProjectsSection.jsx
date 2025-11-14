@@ -40,7 +40,7 @@ const projects = [
       hidraulico: 90,
       peso: 'Alto'
     }
-  },
+  },/*
   {
     id: 2,
     title: 'Reparación de Motor Industrial',
@@ -88,7 +88,7 @@ const projects = [
       hidraulico: 45,
       peso: 'Alto'
     }
-  }
+  }*/
 ];
 
 // Componente Modal del Carousel
